@@ -2,7 +2,7 @@
 
 -> 👨🏾‍💻 I am currently working at a customizations and deployments (ERP) company called Vatec and we use the Sankhya system <br>
 -> 📚 I am currently studying Information Systems at UFG<br>
--> 📫 How to reach me: eduardofleury@gmail.com<br>
+-> 📫 How to reach me: eduardopinafleury@gmail.com<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
