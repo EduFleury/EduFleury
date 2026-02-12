@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Eduardo Fleury  
 
-🎓 I'm a final-year Information Systems student at **UFG (Federal University of Goiás)**, passionate about software engineering and clean, scalable solutions.  
-💻 Currently working as a **Java Backend Developer** at **Ebix Latin America**, contributing to enterprise systems for **Bradesco Seguros** using **Java, JSP, Struts, and SQL**.  
+🎓 I have a degree Information Systems at **UFG (Federal University of Goiás)**, passionate about software engineering and clean, scalable solutions.  
+💻 Currently working as a **Java Backend Developer** at **Ebix Latin America**, contributing to enterprise systems for **Bradesco Seguros** using **Java, Junit, JSP, Struts, and SQL**.  
 🚀 Experienced in developing and deploying **custom ERP solutions** (Sankhya), and in building modern applications with **Spring Boot, Node.js, Angular, React**, and **microservices architecture** using **Apache Kafka** and **MinIO**.  
 
 📫 **How to reach me:** [eduardopinafleury@gmail.com](mailto:eduardopinafleury@gmail.com)
